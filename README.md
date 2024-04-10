@@ -55,11 +55,11 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144008.png
-D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144022.png
-D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144246.png
-D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144341.png
-D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144520.png
+![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/55c15930-6b0a-4388-80d3-ece2a2a20274)
+![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/8600255b-b17a-49ac-8673-1d86c5df81b4)
+![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/696d4985-069b-4f4d-833c-819d294bbe48)
+![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/07dc5222-02e5-4374-9c61-bf0bc19b59d9)
+
 
 
 ## RESULT
