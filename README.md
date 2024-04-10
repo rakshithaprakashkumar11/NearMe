@@ -55,11 +55,11 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-
-
-
-
-
+D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144008.png
+D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144022.png
+D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144246.png
+D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144341.png
+D:\web application\NearMe\proj1\app1\static\Screenshot 2024-04-10 144520.png
 
 
 ## RESULT
