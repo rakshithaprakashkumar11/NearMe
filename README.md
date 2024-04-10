@@ -55,10 +55,12 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
+![Screenshot 2024-04-10 144008](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/3d1664ce-27a8-4be7-89b9-5c6e40a1fb0d)
+![Screenshot 2024-04-10 144520](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/184dc4c9-f3a9-475e-9adc-2d1ce6a5ee6e)
+![Screenshot 2024-04-10 144341](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/e9637689-d1b0-473e-aa71-e554e78fe3c5)
+
 ![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/55c15930-6b0a-4388-80d3-ece2a2a20274)
-![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/8600255b-b17a-49ac-8673-1d86c5df81b4)
-![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/696d4985-069b-4f4d-833c-819d294bbe48)
-![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/07dc5222-02e5-4374-9c61-bf0bc19b59d9)
+
 
 
 
